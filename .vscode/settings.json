@@ -1,0 +1,7 @@
+{
+  "cmake.sourceDirectory": "/Users/nayel/Documents/Insights_Project/frontend/insight_app/linux",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
